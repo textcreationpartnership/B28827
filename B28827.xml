@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Rector of Whitechappels answer to the case and petition of the Hamlet of Wapping.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28827</idno><idno type="EEBO-CITATION">99886820</idno>
+  <idno type="VID">189491</idno>
+  <idno type="EEBO-PROQUEST">2264217038</idno>
+  
+            <idno type="STC">Wing R654A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1888.c.11[63]</idno>
+            <idno type="STC">ESTC R226639</idno>
+            <idno type="PROQUEST">ocm99886820</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886820e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28827)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189491)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C16:2[69])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Rector of Whitechappels answer to the case and petition of the Hamlet of Wapping.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>In this edition the paragraph that begins "I." has 9 lines and the final margin note begins "The Hamlet ...".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Whitechapel (London, England) --  Church history --  17th century.</term>
+               <term type="geographic_name">Wapping (London, England) --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:189491:1"/>
+            <head>The Rector of <hi>Whitechappels</hi> Answer to the Case and Petition of the Hamlet of <hi>Wapping.</hi>
+            </head>
+            <p>THE Inhabitants of <hi>Wapping,</hi>
+               <note place="margin">Their Allega<g ref="char:EOLhyphen"/>tions of Num<g ref="char:EOLhyphen"/>ber of Inhabi<g ref="char:EOLhyphen"/>tants in the said Parish, of New Buil<g ref="char:EOLhyphen"/>dings, of In<g ref="char:EOLhyphen"/>crease of Tythes.</note> which is part of the Parish of St. <hi>Mary Whitechappel,</hi> Peti<g ref="char:EOLhyphen"/>tioning, that they may be made a distinct Parish, do suggest and alleadge the following things, <hi>viz.</hi> The great number of Inhabitants in the said Parish, so that the Church is no way able to contain them, and also the great Increase of new Buildings with<g ref="char:EOLhyphen"/>in late years in the Upper Hamlet of <hi>Whitechappel;</hi> whereby, they pretend, the value of the said Living is greatly increased to the <hi>Rector</hi> beyond what it was in former years, and that it is now worth 600 <hi>l. per Annum,</hi> whereas it was but 350 <hi>l. per Annum</hi> in the year 1660, and that it will be worth 400 <hi>l. per Annum</hi> without <hi>Wapping.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answer, </seg>
+               </label> In Answer to which the Rector Replies as followeth,</p>
+            <p n="1">I.
+<note place="margin">Their Bill is not to Build or Enlarge a<g ref="char:EOLhyphen"/>ny Church or Chappel, but only to free themselves from their Old Tythes and Parish Charges</note> It is confessed that the Number of Inhabitants in the said Parish is very great, as in all the out-Parishes about <hi>London,</hi> and he wishes there were more Churches and Places for Religious Worship built in all of them, but no such thing is proposed or designed by the Bill to make <hi>Wapping</hi> a distinct Parish, which is not to Erect or Enlarge any New Church or Chappel for the better Service of Religion, or the Conveniency of a greater Number to repair to Divine Worship, the said Hamlet having a Large and Capacious Chappel already built with Brick, and a Yearly Fund to keep it in Repair out of the Burials there, but their only design is to take away the Tythes from the Rector of <hi>Whitechappel,</hi> and to free themselves from those, and other Parish Charges.</p>
+            <p n="2">II.
+<note place="margin">They have had a Chappel almost Four<g ref="char:EOLhyphen"/>score Years, with Mainte<g ref="char:EOLhyphen"/>nance for a Curate, and a Fund to Re<g ref="char:EOLhyphen"/>pair it.</note> The said <hi>Chappel</hi> of <hi>Wapping</hi> hath been built almost Fourscore Years, and hath ever since had a Competent Maintenance for a Curate, having some Endowment upon its Consecration, and several Gifts of Hou<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s settled upon it since, which with the Perquisites of Christnings, Burials and Marriages, and the Usual Contributions of the Inhabitants (which is but the same Charge to them with all other Parishes in and about <hi>London</hi> to their Lecturers) hath been al<g ref="char:EOLhyphen"/>ways Computed at Six or Seven Score Pounds <hi>per Annum,</hi> so that upon avoidance of the said Curacy, there hath been great Competition for the same by Clergy-Men of good Worth.</p>
+            <p n="3">III.
+<note place="margin">They have paid their Old Tythes to the Rectors of <hi>Whitechappel,</hi> as is done in all other pla<g ref="char:EOLhyphen"/>ces in <hi>England</hi> where are Chappels of Ease. The New Buildings have not lessened the Parish Rates, nor in<g ref="char:EOLhyphen"/>creased the Old Tythes.</note> The said Inhabitants before and ever since the building of the said Chappel have payd Tythes to the Rectors of <hi>Whitechappel,</hi> as is done likewise in all other Chapelries in <hi>England,</hi> where many hundred such Chappels of Ease are, and have been built, and a Curate distinctly maintained in them, without taking away the Tythes, or any part of them from the proper Rectors or Impropriators of the said respective Parishes, to do which (without consent) would be a thing of dangerous consequence not only to several Rectors, but to many Impropria<g ref="char:EOLhyphen"/>tors in <hi>England.</hi>
+            </p>
+            <p n="4">IV. There have within some years last past been many New Houses Erected in the said Pa<g ref="char:EOLhyphen"/>rish as in all the Out-Parishes of <hi>London,</hi> several of which have dropt down before they were Inhabited, or quite finished, and the old Houses in the said Parish have greatly faln in their Rents, by reason of the New Ones, and many of them are quite decayed and faln down, and <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ers stand Empty, or are filled only with very poor People: So little benefit hath therefore ac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d to the said <hi>Parish</hi> or the <hi>Rectory</hi> thereof by the said New Buildings, that as all parish Rates have been higher since to the particular Inhabitants, and been considerably raised to what they were formerly, so neither have the Tythes and Profits of the said Rectory been increased beyond what they were in former Years, nor do amount to more now than they did Threescore Years agoe, as appears by the Old <hi>Decimaries</hi> and <hi>Tythe Books</hi> of the said <hi>Parish,</hi> neither is the value of the Living now above Two Thirds of what they falsly compute it, nor does almost any thing exceed what they own it to have been in 1660, <hi>viz.</hi> 350 <hi>l. per annum,</hi> out of which the Rector payes Yearly Taxes of 60 <hi>l. per Annum,</hi> besides Charge of Curate, Collector, and Tenths to the King, all which the Curate of <hi>Wapping</hi> is free from.</p>
+            <p n="5">V.
+<note place="margin">The Hamlet of <hi>Wapping</hi> the most Trading and Rich part of the Parish, their Old Tythes 130 <hi>l. per Annum.</hi>
+               </note> The said Hamlet of <hi>Wapping</hi> is above a Third part of the said Parish, and having the Ad<g ref="char:EOLhyphen"/>vantage of the River <hi>Thames,</hi>
+               <gap reason="illegible" resp="#keyers" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> the side of which the greatest part of it is built for above a Mile together, hath always had, and ever will have a very great Trade much above the other parts of the Parish, and most of their Inhabitants have been accounted a Rich and Wealthy People, therefore their Old Rate Tythes in respect of their Houses have been always much above a Third part of the Tythes of the whole Parish, and are of the Yearly Value of 130 <hi>l.</hi> or there<g ref="char:EOLhyphen"/>abouts, and were so ab<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Threescore Years agde, as appears by the Old <hi>Decimaries</hi> and <hi>Tyth-Books.</hi>
+            </p>
+            <p>The Rector therefore of the said Parish who hath been legally possessed of the said Tythes for near Thirteen Years, and for several years last past pay'd Taxes for the same to the full, doth not at all doubt but the Justice of the Honourable House of Commons, who have been always the Assertors of the Property and Liberty of the Subjects, will preserve to him his Property and Freehold in the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>id Tythes, and not let the same, which are above a Third part of his Live<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> away from him by the Bill to make <hi>Wapping</hi> a distinct Parish, but that the <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to him during his Life.</p>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:189491:2"/>
+            <p>Rector of <hi>Whitechappel</hi>'s ANSWER TO THE Case and Petition OF <hi>Wapping-Hamlet.</hi>
+            </p>
+            <pb facs="tcp:189491:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
